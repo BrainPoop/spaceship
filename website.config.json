@@ -1,10 +1,10 @@
 {
-  "author": "Spaceship CO",
-  "base": "astro-theme-spaceship/",
+  "author": "Brian S Toole",
+  "base": "/",
   "defaultLocale": "en",
   "description": "Ship your Second Brain into the Cyber-Space",
-  "site": "https://aitorllj93.github.io",
-  "title": "Spaceship",
+  "site": "spaceship-mu.vercel.app",
+  "title": "BrainPoop",
   "displayOptions": {
     "showAuthor": false,
     "showPublishDate": false
